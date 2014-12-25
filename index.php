@@ -18,8 +18,6 @@
   </head>
   <body>
 
-
-
 <div id="header" class="header center-block" >
   <div id="intro" class="row intro">
     <div class="col-md-10 centered intro-text">

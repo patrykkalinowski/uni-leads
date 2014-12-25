@@ -5,12 +5,12 @@ $("#english-label").on("click", function() {
 	if ($("#english-checkbox").is(":checked")) {
 		$(this).removeClass("btn-success :active").addClass("btn-default");
 		langs--;
-		console.log(langs);	
+			
 	}
 	else {
 		$(this).removeClass("btn-default").addClass("btn-success :active");
 		langs++;
-		console.log(langs);
+		
 	}
 });	
 
@@ -18,12 +18,12 @@ $("#german-label").on("click", function() {
 	if ($("#german-checkbox").is(":checked")) {
 		$(this).removeClass("btn-success :active").addClass("btn-default");
 		langs--;
-		console.log(langs);
+		
 	}
 	else {
 		$(this).removeClass("btn-default").addClass("btn-success :active");
 		langs++;
-		console.log(langs);
+		
 	}
 });
 
@@ -31,12 +31,12 @@ $("#french-label").on("click", function() {
 	if ($("#french-checkbox").is(":checked")) {
 		$(this).removeClass("btn-success :active").addClass("btn-default");
 		langs--;
-		console.log(langs);
+		
 	}
 	else {
 		$(this).removeClass("btn-default").addClass("btn-success :active");
 		langs++;
-		console.log(langs);
+		
 	}
 });
 
@@ -44,12 +44,12 @@ $("#italian-label").on("click", function() {
 	if ($("#italian-checkbox").is(":checked")) {
 		$(this).removeClass("btn-success :active").addClass("btn-default");
 		langs--;
-		console.log(langs);
+		
 	}
 	else {
 		$(this).removeClass("btn-default").addClass("btn-success :active");
 		langs++;
-		console.log(langs);
+		
 	}
 });
 
@@ -57,12 +57,12 @@ $("#russian-label").on("click", function() {
 	if ($("#russian-checkbox").is(":checked")) {
 		$(this).removeClass("btn-success :active").addClass("btn-default");
 		langs--;
-		console.log(langs);
+		
 	}
 	else {
 		$(this).removeClass("btn-default").addClass("btn-success :active");
 		langs++;
-		console.log(langs);
+		
 	}
 });
 
@@ -70,12 +70,12 @@ $("#spanish-label").on("click", function() {
 	if ($("#spanish-checkbox").is(":checked")) {
 		$(this).removeClass("btn-success :active").addClass("btn-default");
 		langs--;
-		console.log(langs);
+		
 	}
 	else {
 		$(this).removeClass("btn-default").addClass("btn-success :active");
 		langs++;
-		console.log(langs);
+		
 	}
 });
 
@@ -83,12 +83,12 @@ $("#arabic-label").on("click", function() {
 	if ($("#arabic-checkbox").is(":checked")) {
 		$(this).removeClass("btn-success :active").addClass("btn-default");
 		langs--;
-		console.log(langs);
+		
 	}
 	else {
 		$(this).removeClass("btn-default").addClass("btn-success :active");
 		langs++;
-		console.log(langs);
+		
 	}
 });
 
@@ -96,12 +96,12 @@ $("#norwegian-label").on("click", function() {
 	if ($("#norwegian-checkbox").is(":checked")) {
 		$(this).removeClass("btn-success :active").addClass("btn-default");
 		langs--;
-		console.log(langs);
+		
 	}
 	else {
 		$(this).removeClass("btn-default").addClass("btn-success :active");
 		langs++;
-		console.log(langs);
+		
 	}
 });
 

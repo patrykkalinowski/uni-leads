@@ -84,4 +84,7 @@ else {
 // Save the new item
 $item->save();
 
+
+// welcome mail sender 
+require "mailer.php";
 ?>
