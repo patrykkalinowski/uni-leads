@@ -92,18 +92,6 @@ $("#arabic-label").on("click", function() {
 	}
 });
 
-$("#norwegian-label").on("click", function() {
-	if ($("#norwegian-checkbox").is(":checked")) {
-		$(this).removeClass("btn-success :active").addClass("btn-default");
-		langs--;
-		
-	}
-	else {
-		$(this).removeClass("btn-default").addClass("btn-success :active");
-		langs++;
-		
-	}
-});
 
 // Ajax form
 
@@ -127,11 +115,15 @@ var dataString = $("#form").serialize();
   data: dataString, // form data as data to send
   beforeSend: function(){ // while sending
      $("body").css("cursor", "progress"); // loading cursor
+     $("#submit").val("CHWILECZKĘ...");
    },
 })
  
  .fail(function(msg) {
     alert("Wystąpił błąd! Spróbuj jeszcze raz.");
+    // error event tracking
+    ga('send', 'event', 'Form', 'Submit', 'Błąd wysłania formularza');
+    mixpanel.track("Błąd wysłania formularza");
   })
  .complete(function() {
  	$("body").css("cursor", "auto"); // back to normal cursor
@@ -141,14 +133,15 @@ var dataString = $("#form").serialize();
 	//alert(msg); 
 
 	// Analytics conversion event
-	// GA SEND EVENT
-
+	ga('send', 'event', 'Form', 'Submit', 'Zapisanie się na listę');
+	// Mixpanel conversion event
+	mixpanel.track("Zapisanie się na listę");
 	// hide elements and show thank you message
 	$("body").css("cursor", "auto"); // back to normal cursor
 	$("#header").fadeOut(); // hide header (it's not hidden when on mobile)
 	$("#left-content").fadeOut();
 	$("#right-content").fadeOut(function() {
-		$(".thankyou-msg").removeClass("hidden");
+		$("#thankyou-row").removeClass("hidden");
 	});
 	// get name input to display on thank you
 	var displayName = $("#name").val();

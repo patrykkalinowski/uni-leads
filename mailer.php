@@ -2,7 +2,7 @@
 require 'PHPMailer/PHPMailerAutoload.php';
 
 // get welcome email template
-$welcome_email = file_get_contents('./welcome_email.php');
+$welcome_email = file_get_contents('welcome_email.php');
 // replace name in heading
 $welcome_email = str_replace('%name%', $name, $welcome_email); 
 $mail = new PHPMailer;

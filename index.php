@@ -17,22 +17,71 @@
     <![endif]-->
   </head>
   <body>
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-P9FPPX"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-P9FPPX');</script>
+<!-- End Google Tag Manager -->
+      
 
 <div id="header" class="header center-block" >
   <div id="intro" class="row intro">
     <div class="col-md-10 centered intro-text">
-      <h2 id="logo" class="text-center" style="background:blue; color:white;">LOGO</h2>
+      <div class="text-center"><img id="logo" class="text-center" src="img/logo.png" style="width:300px; margin: 0 auto;" /></div>
       <br/>
       <h1 class="text-center"><strong>Najtańsze</strong> warsztaty językowe dla studentów w Krakowie</h1>
       
-      <br/>
-      <h3 class="text-center">Prowadzone przez native speakerów</h3>
+      
+      <h3 class="text-center alegreyaregular">Prowadzone przez native speakerów</h3>
 
       <br/>
-      <h4 class="text-center">A tutaj flagi</h4>
-      <h5 class="text-center">dalej flagi</h5>
-      <h5 class="text-center">dalej flagi</h5>
-
+      <div class="row alegreyabold">
+        <div class="col-md-2 text-center">
+           <h4>ANGIELSKI</h4>
+          <img class="flag" src="img/flaga-angielski.svg" />
+         
+        </div>
+      
+        <div class="col-md-2 text-center">
+          <img class="flag" src="img/flaga-niemiecki.svg" />
+          
+          <h4>NIEMIECKI</h4>
+        </div>
+      
+        <div class="col-md-2 text-center">
+          <h4>FRANCUSKI</h4>
+          <img class="flag" src="img/flaga-francuski.svg" />
+          
+        </div>
+      
+        <div class="col-md-2 text-center">
+          <img class="flag" src="img/flaga-wloski.svg" />
+          
+          <h4>WŁOSKI</h4>
+        </div>
+      
+        <div class="col-md-2 text-center">
+           <h4>HISZPAŃSKI</h4>
+          <img class="flag" src="img/flaga-hiszpanski.svg" />
+         
+        </div>
+      
+        <div class="col-md-2 text-center">
+          <img class="flag" src="img/flaga-rosyjski.svg" />
+         
+          <h4>ROSYJSKI</h4>
+        </div>
+      
+        <div class="col-md-2 col-md-offset-5 text-center">
+           <h4>ARABSKI</h4>
+          <img class="flag" src="img/flaga-arabski.svg" />
+         
+        </div>
+      </div>
 
 
     </div>
@@ -48,25 +97,27 @@
       <nav class="navbar navbar-default" role="navigation">
         <div class="container-fluid">
           <div class="navbar-header">
-            <a class="navbar-brand" href="#">LOGO</a>
-            <p class="navbar-brand navbar-collapse collapse">AIESEC University: <strong>Najtańsze</strong> warsztaty językowe dla studentów w Krakowie</p>
+            <a class="navbar-brand" href="#"><img id="logo" class="text-center" src="img/logo.png" style="width:60px; margin: 0 auto;" /></a>
+            <p class="navbar-brand navbar-collapse collapse"> <strong>Najtańsze</strong> warsztaty językowe dla studentów w Krakowie</p>
           
           </div>
           
         </div><!--/.container-fluid -->
       </nav>
 
-    <div class="row">
-      <div class="col-md-8 centered thankyou">
-    <h1 id="thankyou-msg" class="thankyou-msg hidden text-center">Dzięki za wypełnienie formularza, <span></span>!<br/>Jesteś super!</h1>
-    <p class="thankyou-msg hidden text-center">Teraz sprawdź swoją skrzynkę pocztową.</p>
+    <div id="thankyou-row" class="row hidden">
+      <div class="col-md-8 centered thankyou alegreyabold">
+    <h1 id="thankyou-msg" class="thankyou-msg text-center">Dzięki za wypełnienie formularza, <span></span>!<br/>Jesteś super!</h1>
+    <p class="thankyou-msg text-center">Teraz sprawdź swoją skrzynkę pocztową.</p>
       </div>
     </div>
-
    
-
-    <div id="left-content" class="col-md-4 col-md-offset-2">
-        <h3>Tylko 199 zł za 8 tygodni warsztatów</h3>
+    <div id="left-content" class="col-md-5 col-md-offset-1 alegreyabold">
+      <h2>Tylko 199 zł za 8 tygodni warsztatów</h2>
+    
+ 
+    <div class="col-md-11 col-md-offset-1">
+       
 
         <ul>
           <li id="point1" class="point">zajęcia z native speakerami</li>
@@ -79,11 +130,11 @@
 
      
     </div>
-
+  </div>
     <div id="right-content" class="col-md-4 col-md-offset-1">
       <h3>Startujemy 2 marca!<br/>
         Liczba miejsc ograniczona.<br/>
-        Zarezerwuj sobie miejsce, a otrzymasz 20zł zniżki</h3>
+        Zarezerwuj sobie miejsce już teraz:</h3>
 
         <form id="form" class="form" enctype="multipart/form-data">
 
@@ -117,9 +168,7 @@
 					<input type="checkbox" class="form-control language-checkbox" id="arabic-checkbox" name="languages[arabic]" value="7">
 						<label id="arabic-label" class="btn btn-default language-label" for="arabic-checkbox">ARABSKI</label>
 						
-					<input type="checkbox" class="form-control language-checkbox" id="norwegian-checkbox" name="languages[norwegian]" value="8">
-						<label id="norwegian-label" class="btn btn-default language-label" for="norwegian-checkbox">NORWESKI</label>
-						
+					
 					
 
 				
@@ -166,7 +215,7 @@ if (isset($_GET['gclid'])) {
 
       </div>
 
-    </div>
+</div>
  
 
 <div id="onepixel"></div>
@@ -177,7 +226,7 @@ if (isset($_GET['gclid'])) {
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
     <!-- Include all compiled plugins (below), or include individual files as needed -->
     <script src="js/bootstrap.min.js"></script>
-    <!-- jQuery UI for effects -->
+    <!-- jQuery UI for effects --
     <script src="https://code.jquery.com/ui/1.11.2/jquery-ui.min.js"></script>
     <!-- form handler for validation and ajax request -->
     <script src="js/form-handler.js"></script>
@@ -185,6 +234,7 @@ if (isset($_GET['gclid'])) {
     <script>
     // define function on window scroll
     function onScroll() {
+      
       $("#onepixel").css("display", "none");
       $("#intro").slideUp(function() {
         $("#header").addClass("hidden");
@@ -215,11 +265,6 @@ if (isset($_GET['gclid'])) {
       onScroll();
     });
     }
-
-
-    
-
-    
     </script>
   </body>
 </html>

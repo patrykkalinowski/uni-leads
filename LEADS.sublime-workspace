@@ -1,0 +1,1222 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"welcom",
+				"welcome_email"
+			],
+			[
+				"requi",
+				"require_once"
+			],
+			[
+				"php",
+				"php"
+			],
+			[
+				"display",
+				"displayName"
+			],
+			[
+				"next",
+				"next-name"
+			],
+			[
+				"form",
+				"form-next"
+			],
+			[
+				"ne",
+				"next-form"
+			],
+			[
+				"lan",
+				"languages-error"
+			],
+			[
+				"anima",
+				"animated-example"
+			],
+			[
+				"btn",
+				"btn-success"
+			],
+			[
+				"btn-",
+				"btn-default"
+			],
+			[
+				"ge",
+				"german-checkbox"
+			],
+			[
+				"russian",
+				"russian-label"
+			],
+			[
+				"langu",
+				"languages"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"kursanci_",
+				"kursanci_uni_id"
+			],
+			[
+				"utm_",
+				"utm_source"
+			],
+			[
+				"utm",
+				"utm_medium"
+			],
+			[
+				"gc",
+				"gclid"
+			],
+			[
+				"user",
+				"user_id"
+			],
+			[
+				"leaf",
+				"leaflets"
+			],
+			[
+				"wednesdays",
+				"wednesdays2"
+			],
+			[
+				"sun",
+				"sundays"
+			],
+			[
+				"frid",
+				"fridays"
+			],
+			[
+				"thurs",
+				"thursdays"
+			],
+			[
+				"leaflet",
+				"leaflet"
+			],
+			[
+				"na",
+				"name"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.php",
+			"settings":
+			{
+				"buffer_size": 8390,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "mailer.php",
+			"settings":
+			{
+				"buffer_size": 1560,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "register.php",
+			"settings":
+			{
+				"buffer_size": 2749,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "welcome_email.php",
+			"settings":
+			{
+				"buffer_size": 20133,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "js/form-handler.js",
+			"settings":
+			{
+				"buffer_size": 3407,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "config.php",
+			"settings":
+			{
+				"buffer_size": 1277,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/var/www/html/AIESEC-University/bazadanych/config.php",
+			"settings":
+			{
+				"buffer_size": 907,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/var/www/html/bazadanych/config.php",
+			"settings":
+			{
+				"buffer_size": 907,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/var/www/html/bazadanych/bazadanych.php",
+			"settings":
+			{
+				"buffer_size": 1488,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/var/www/html/AIESEC-University/bazadanych/bazadanych.php",
+			"settings":
+			{
+				"buffer_size": 1950,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "less/uni-main.less",
+			"settings":
+			{
+				"buffer_size": 328,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "less/uni-content.less",
+			"settings":
+			{
+				"buffer_size": 322,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "less/uni-header.less",
+			"settings":
+			{
+				"buffer_size": 2720,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "less/type.less",
+			"settings":
+			{
+				"buffer_size": 5959,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "less/mixins.less",
+			"settings":
+			{
+				"buffer_size": 1102,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "less/mixins/size.less",
+			"settings":
+			{
+				"buffer_size": 127,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "less/mixins/text-emphasis.less",
+			"settings":
+			{
+				"buffer_size": 116,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "less/mixins/labels.less",
+			"settings":
+			{
+				"buffer_size": 161,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "less/mixins/grid.less",
+			"settings":
+			{
+				"buffer_size": 3094,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "less/normalize.less",
+			"settings":
+			{
+				"buffer_size": 7650,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "less/variables.less",
+			"settings":
+			{
+				"buffer_size": 26792,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "less/uni-form.less",
+			"settings":
+			{
+				"buffer_size": 309,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 285.0,
+		"selected_items":
+		[
+			[
+				"",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/etc/mysql/my.cnf",
+		"/var/www/html/AIESEC-University/leads/LEADS.sublime-workspace",
+		"/var/www/html/AIESEC-University/leads/js/form-handler.js",
+		"/var/www/html/AIESEC-University/leads/index.php",
+		"/var/www/html/AIESEC-University/leads/register.php",
+		"/var/www/html/AIESEC-University/leads/mailer.php",
+		"/var/www/html/AIESEC-University/leads/PHPMailer/PHPMailerAutoload.php",
+		"/var/www/html/AIESEC-University/leads/config.php",
+		"/var/www/html/AIESEC-University/leads/welcome_email.php",
+		"/var/www/html/AIESEC-University/rejestracja/form-handler.js",
+		"/var/www/html/AIESEC-University/leads/style.css",
+		"/var/www/html/AIESEC-University/leads/test.html",
+		"/etc/php5/apache2/php.ini",
+		"/var/www/html/AIESEC-University/leads/welcome_email.html",
+		"/var/www/html/AIESEC-University/leads/Uni Leads Welcome Email.html",
+		"/var/www/html/AIESEC-University/leads/.gitignore",
+		"/var/www/html/AIESEC-University/leadsB/less/uni-form.less",
+		"/var/www/html/AIESEC-University/leadsB/js/form-handler.js",
+		"/var/www/html/AIESEC-University/rejestracja/index.php",
+		"/var/www/html/AIESEC-University/leadsB/index.php",
+		"/var/www/html/AIESEC-University/rejestracja/register.php",
+		"/var/www/html/AIESEC-University/leadsB/register.php",
+		"/var/www/html/AIESEC-University/leadsB/config.php",
+		"/var/www/html/AIESEC-University/leads/form-handler.js",
+		"/var/www/html/AIESEC-University/leads/less/uni-header.less",
+		"/var/www/html/AIESEC-University/leads/less/uni-main.less",
+		"/var/www/html/AIESEC-University/leads/less/uni-content.less",
+		"/var/www/html/AIESEC-University/leads/less/uni-form.less",
+		"/var/www/html/AIESEC-University/leads/less/bootstrap.less",
+		"/media/patryk/WD/Multimedia/Filmy/French.Kiss.1995.1080p.BluRay.x264.anoXmous/French.Kiss.1995.1080p.BluRay.x264.anoXmous_eng.srt",
+		"/var/www/html/AIESEC-University/rejestracja/config.php",
+		"/var/www/html/AIESEC-University/leads/less/uni-form2.less",
+		"/var/www/html/AIESEC-University/leads/css/bootstrap.css",
+		"/var/www/html/AIESEC-University/rejestracja/style.css",
+		"/var/www/html/AIESEC-University/rejestracja/test.php",
+		"/var/www/html/AIESEC-University/rejestracja/index.html",
+		"/var/log/apache2/error.log",
+		"/var/www/html/test.php",
+		"/etc/apache2/apache2.conf",
+		"/var/www/html/AIESEC-University/leads/index.html",
+		"/home/patryk/public_html/AIESEC-University/rejestracja/index.php",
+		"/home/patryk/public_html/AIESEC-University/rejestracja/register.php",
+		"/home/patryk/public_html/AIESEC-University/leads/index.html",
+		"/home/patryk/public_html/AIESEC-University/leads/less/scaffolding.less",
+		"/home/patryk/public_html/AIESEC-University/leads/less/theme.less",
+		"/home/patryk/public_html/AIESEC-University/leads/less/grid.less",
+		"/home/patryk/public_html/AIESEC-University/leads/less/uni-header.less",
+		"/home/patryk/public_html/AIESEC-University/leads/less/uni-main.less",
+		"/home/patryk/public_html/AIESEC-University/index.php",
+		"/home/patryk/public_html/AIESEC-University/aktualności/index.php",
+		"/home/patryk/public_html/AIESEC-University/leads/.gitignore",
+		"/home/patryk/public_html/AIESEC-University/rejestracja/.gitignore",
+		"/home/patryk/public_html/AIESEC-University/aktualności/.gitignore",
+		"/home/patryk/public_html/AIESEC-University/rejestracja/config.php",
+		"/home/patryk/public_html/AIESEC-University/leads/config.php",
+		"/home/patryk/public_html/TEST/test.php",
+		"/home/patryk/public_html/AIESEC-University/leads/test.php",
+		"/home/patryk/public_html/AIESEC-University/leads/index.php",
+		"/home/patryk/.cache/.fr-NTFiQh/dotpay_kod_skrypty/c1_sms_curl/main.php",
+		"/home/patryk/.cache/.fr-AXvYpS/dotpay_tabelka_401/pl/tabelka.html",
+		"/home/patryk/public_html/PromoOnRails/config/database.yml",
+		"/home/patryk/public_html/promo-test/app/views/lectures/index.html.erb",
+		"/home/patryk/Desktop/GUI.java",
+		"/home/patryk/public_html/AIESEC-University/aktualności/globalhost.php",
+		"/home/patryk/public_html/AIESEC-University/.htaccess",
+		"/home/patryk/public_html/AIESEC-University/aktualności/config.php",
+		"/home/patryk/public_html/devise-test/Gemfile",
+		"/home/patryk/public_html/devise-test/config/database.yml",
+		"/home/patryk/public_html/AIESEC-University/aiesec.pl aiesecuniversity/index.php",
+		"/home/patryk/public_html/AIESEC-University/aiesec.pl aiesecuniversity/test.php",
+		"/home/patryk/public_html/AIESEC-University/aiesec.pl aiesecuniversity/config.php",
+		"/home/patryk/public_html/TEST/globalhost.php",
+		"/home/patryk/public_html/TEST/config.php",
+		"/home/patryk/public_html/podio-test/Gemfile",
+		"/home/patryk/public_html/podio-test/config/routes.rb",
+		"/home/patryk/public_html/podio_rails_sample/config/initializers/podio.rb",
+		"/home/patryk/public_html/promo-test/Gemfile",
+		"/home/patryk/public_html/promo-test/config/environments/development.rb",
+		"/home/patryk/public_html/promo-test/app/views/welcome/index.html.erb",
+		"/home/patryk/public_html/promo-test/app/views/others/show.html.erb",
+		"/home/patryk/public_html/promo-test/app/views/lectures/show.html.erb",
+		"/home/patryk/public_html/promo-test/app/controllers/lectures_controller.rb",
+		"/home/patryk/public_html/promo-test/db/migrate/20141205234314_lectures_change_time_to_hour.rb",
+		"/home/patryk/public_html/promo-test/app/views/posters/show.html.erb",
+		"/home/patryk/public_html/promo-test/app/views/posters/index.html.erb",
+		"/home/patryk/public_html/promo-test/app/views/others/index.html.erb",
+		"/home/patryk/public_html/promo-test/app/views/layouts/application.html.erb",
+		"/home/patryk/public_html/promo-test/app/controllers/welcome_controller.rb",
+		"/home/patryk/public_html/promo-test/app/controllers/users_controller.rb",
+		"/home/patryk/public_html/promo-test/app/views/users/show.html.erb",
+		"/home/patryk/public_html/promo-test/config/routes.rb",
+		"/home/patryk/public_html/promo-test/app/views/users/index.html.erb",
+		"/home/patryk/public_html/promo-test/app/controllers/omniauth_callbacks_controller.rb",
+		"/home/patryk/public_html/promo-test/config/initializers/devise.rb",
+		"/home/patryk/public_html/promo-test/app/models/user.rb",
+		"/home/patryk/public_html/promo-test/app/views/leaflets/index.html.erb",
+		"/home/patryk/public_html/promo-test/app/views/leaflets/show.html.erb",
+		"/home/patryk/public_html/promo-test/app/controllers/leaflets_controller.rb",
+		"/home/patryk/public_html/promo-test/db/schema.rb",
+		"/home/patryk/public_html/promo-test/db/migrate/20141205232652_lectures_time_rollback.rb",
+		"/home/patryk/public_html/promo-test/db/migrate/20141205231741_change_lectures_time_to_string.rb",
+		"/home/patryk/public_html/promo-test/db/migrate/20141205184639_add_provider_to_users.rb",
+		"/home/patryk/public_html/promo-test/db/migrate/20141205230939_change_lectures_time_to_string.rb",
+		"/home/patryk/public_html/promo-test/db/migrate/20141205183526_devise_create_users.rb",
+		"/home/patryk/public_html/AIESEC-University/leads/css/bootstrap.css",
+		"/home/patryk/public_html/promo-test/db/migrate/20141205181517_add_devise_to_users.rb",
+		"/home/patryk/public_html/clean-rails/Gemfile",
+		"/home/patryk/public_html/clean-rails/Gemfile.lock",
+		"/home/patryk/public_html/devise-test/db/schema.rb",
+		"/home/patryk/public_html/devise-test/config/environments/development.rb",
+		"/home/patryk/public_html/devise-test/config/initializers/devise.rb",
+		"/home/patryk/public_html/devise-test/app/controllers/omniauth_callbacks_controller.rb",
+		"/home/patryk/public_html/devise-test/app/models/user.rb",
+		"/home/patryk/public_html/devise-test/app/controllers/application_controller.rb",
+		"/home/patryk/public_html/devise-test/app/controllers/welcome_controller.rb",
+		"/home/patryk/public_html/devise-test/db/migrate/20141205005910_add_image_to_users.rb",
+		"/home/patryk/public_html/devise-test/app/views/layouts/application.html.erb",
+		"/home/patryk/public_html/devise-test/db/migrate/20141204232500_add_name_to_users.rb",
+		"/home/patryk/public_html/devise-test/app/controllers/omniauth_callback_controller.rb",
+		"/home/patryk/public_html/promo-test/db/migrate/20141204163835_drop_users_table.rb",
+		"/home/patryk/public_html/promo-test/db/migrate/20141204163707_devise_create_users.rb",
+		"/home/patryk/public_html/promo-test/app/controllers/others_controller.rb",
+		"/home/patryk/public_html/promo-test/app/controllers/posters_controller.rb",
+		"/home/patryk/public_html/promo-test/.htaccess",
+		"/home/patryk/public_html/.htaccess",
+		"/home/patryk/public_html/promo-test/promo.sublime-workspace",
+		"/home/patryk/public_html/devise-test/config/routes.rb",
+		"/home/patryk/public_html/promo-test/config/application.rb"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"include",
+			"console.log(langs);",
+			"style=\"display:none;\"",
+			"btn btn-default",
+			"else {\nclass=\"btn btn-default\"",
+			"else {\n		$(this).removeClass(\"language-label-off\").addClass(\"language-label-on\");",
+			"is(\":checked\")) {\n		$(this).removeClass(\"language-label-on\").addClass(\"language-label-off\");",
+			"on1",
+			"-on\"",
+			"off",
+			"language-checkbox-on",
+			"language-checkbox-off",
+			"short_open_tag",
+			"checkbox",
+			"php5",
+			"\"slow\",",
+			"slow",
+			"<br/>",
+			"row",
+			"omniauth",
+			"ś",
+			"monday",
+			"</a>",
+			"leaflet",
+			"tuesday",
+			"monday",
+			"leaflets",
+			"posters",
+			"leaflets",
+			"leaflet",
+			"leaflets",
+			"poster",
+			"posters",
+			"leaflet",
+			"leaflets",
+			"leaflet"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"class=\"point\"",
+			"btn btn-default language-label",
+			"else {\n		$(this).removeClass(\"btn-default\").addClass(\"btn-success :active\");",
+			"is(\":checked\")) {\n		$(this).removeClass(\"btn-success :active\").addClass(\"btn-default\");",
+			"on",
+			"-off\"",
+			"on1",
+			"language-label-on",
+			"language-label-off",
+			"button",
+			"",
+			"fast",
+			"</p>",
+			"weekday",
+			"",
+			"lecture",
+			"sunday",
+			"saturday",
+			"friday",
+			"thursday",
+			"wednesday",
+			"tuesday",
+			"others",
+			"lectures",
+			"posters",
+			"poster",
+			"posters",
+			"lecture",
+			"lectures",
+			"poster",
+			"posters",
+			"other"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.php",
+					"settings":
+					{
+						"buffer_size": 8390,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5359,
+								5359
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 80.0,
+						"translation.y": 1632.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "mailer.php",
+					"settings":
+					{
+						"buffer_size": 1560,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								116,
+								116
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "register.php",
+					"settings":
+					{
+						"buffer_size": 2749,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 867.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "welcome_email.php",
+					"settings":
+					{
+						"buffer_size": 20133,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 4,
+					"file": "js/form-handler.js",
+					"settings":
+					{
+						"buffer_size": 3407,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2007,
+								2007
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1479.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "config.php",
+					"settings":
+					{
+						"buffer_size": 1277,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/var/www/html/AIESEC-University/bazadanych/config.php",
+					"settings":
+					{
+						"buffer_size": 907,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								219,
+								219
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/var/www/html/bazadanych/config.php",
+					"settings":
+					{
+						"buffer_size": 907,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/var/www/html/bazadanych/bazadanych.php",
+					"settings":
+					{
+						"buffer_size": 1488,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1225,
+								1225
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "/var/www/html/AIESEC-University/bazadanych/bazadanych.php",
+					"settings":
+					{
+						"buffer_size": 1950,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 306.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "less/uni-main.less",
+					"settings":
+					{
+						"buffer_size": 328,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								137,
+								137
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LESS/LESS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "less/uni-content.less",
+					"settings":
+					{
+						"buffer_size": 322,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LESS/LESS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "less/uni-header.less",
+					"settings":
+					{
+						"buffer_size": 2720,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								186,
+								186
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LESS/LESS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "less/type.less",
+					"settings":
+					{
+						"buffer_size": 5959,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LESS/LESS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 642.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "less/mixins.less",
+					"settings":
+					{
+						"buffer_size": 1102,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LESS/LESS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 15,
+					"file": "less/mixins/size.less",
+					"settings":
+					{
+						"buffer_size": 127,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LESS/LESS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 16,
+					"file": "less/mixins/text-emphasis.less",
+					"settings":
+					{
+						"buffer_size": 116,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LESS/LESS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 17,
+					"file": "less/mixins/labels.less",
+					"settings":
+					{
+						"buffer_size": 161,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LESS/LESS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 18,
+					"file": "less/mixins/grid.less",
+					"settings":
+					{
+						"buffer_size": 3094,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LESS/LESS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1459.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 19,
+					"file": "less/normalize.less",
+					"settings":
+					{
+						"buffer_size": 7650,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LESS/LESS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 6491.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 20,
+					"file": "less/variables.less",
+					"settings":
+					{
+						"buffer_size": 26792,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1560,
+								1560
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LESS/LESS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 463.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 21,
+					"file": "less/uni-form.less",
+					"settings":
+					{
+						"buffer_size": 309,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LESS/LESS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": false,
+	"side_bar_visible": true,
+	"side_bar_width": 166.0,
+	"status_bar_visible": true
+}
