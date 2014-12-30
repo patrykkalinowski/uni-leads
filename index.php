@@ -1,6 +1,21 @@
 <!DOCTYPE html>
 <html lang="pl">
   <head>
+   <!-- Google Analytics Content Experiment code -->
+<script>function utmx_section(){}function utmx(){}(function(){var
+k='94244694-1',d=document,l=d.location,c=d.cookie;
+if(l.search.indexOf('utm_expid='+k)>0)return;
+function f(n){if(c){var i=c.indexOf(n+'=');if(i>-1){var j=c.
+indexOf(';',i);return escape(c.substring(i+n.length+1,j<0?c.
+length:j))}}}var x=f('__utmx'),xx=f('__utmxx'),h=l.hash;d.write(
+'<sc'+'ript src="'+'http'+(l.protocol=='https:'?'s://ssl':
+'://www')+'.google-analytics.com/ga_exp.js?'+'utmxkey='+k+
+'&utmx='+(x?x:'')+'&utmxx='+(xx?xx:'')+'&utmxtime='+new Date().
+valueOf()+(h?'&utmxhash='+escape(h.substr(1)):'')+
+'" type="text/javascript" charset="utf-8"><\/sc'+'ript>')})();
+</script><script>utmx('url','A/B');</script>
+<!-- End of Google Analytics Content Experiment code -->
+
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -38,48 +53,70 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
       
       <h3 class="text-center alegreyaregular">Prowadzone przez native speakerów</h3>
 
-      <br/>
+      <br/> <!-- FLAGS -->
       <div class="row alegreyabold">
         <div class="col-md-2 text-center">
-           <h4>ANGIELSKI</h4>
-          <img class="flag" src="img/flaga-angielski.svg" />
+          <div class="col-md-12">
+            <h4>ANGIELSKI</h4>
+          </div>
+          <div class="col-md-12">
+            <img class="flag" src="img/flaga-angielski.svg" />
+          </div>
+        </div>
+      
+        <div class="col-md-2 text-center">
+          <div class="col-md-12">
+            <h4>NIEMIECKI</h4>
+          </div>
+          <div class="col-md-12">
+            <img class="flag" src="img/flaga-niemiecki.svg" />
+          </div> 
          
         </div>
       
         <div class="col-md-2 text-center">
-          <img class="flag" src="img/flaga-niemiecki.svg" />
-          
-          <h4>NIEMIECKI</h4>
+          <div class="col-md-12">
+            <h4>FRANCUSKI</h4>
+          </div>
+          <div class="col-md-12">
+            <img class="flag" src="img/flaga-francuski.svg" />
+          </div>
         </div>
       
         <div class="col-md-2 text-center">
-          <h4>FRANCUSKI</h4>
-          <img class="flag" src="img/flaga-francuski.svg" />
-          
+          <div class="col-md-12">
+            <h4>WŁOSKI</h4>
+          </div>
+          <div class="col-md-12">
+           <img class="flag" src="img/flaga-wloski.svg" />
+          </div>
         </div>
       
         <div class="col-md-2 text-center">
-          <img class="flag" src="img/flaga-wloski.svg" />
-          
-          <h4>WŁOSKI</h4>
-        </div>
-      
-        <div class="col-md-2 text-center">
+          <div class="col-md-12">
            <h4>HISZPAŃSKI</h4>
+         </div>
+         <div class="col-md-12">
           <img class="flag" src="img/flaga-hiszpanski.svg" />
-         
+         </div>
         </div>
       
         <div class="col-md-2 text-center">
-          <img class="flag" src="img/flaga-rosyjski.svg" />
-         
-          <h4>ROSYJSKI</h4>
+          <div class="col-md-12">
+            <h4>ROSYJSKI</h4>
+          </div>
+          <div class="col-md-12">
+           <img class="flag" src="img/flaga-rosyjski.svg" />
+          </div>
         </div>
       
         <div class="col-md-2 col-md-offset-5 text-center">
+          <div class="col-md-12">
            <h4>ARABSKI</h4>
+         </div>
+         <div class="col-md-12">
           <img class="flag" src="img/flaga-arabski.svg" />
-         
+         </div>
         </div>
       </div>
 
@@ -87,6 +124,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     </div>
     <!-- bouncing arrow -->
      <div id="animated-example" class="animated bounce"></div>
+     <div id="animated-example2" class="animated2 bounce2"></div>
   </div>
 </div>
 
@@ -113,7 +151,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     </div>
    
     <div id="left-content" class="col-md-5 col-md-offset-1 alegreyabold">
-      <h2>Tylko 199 zł za 8 tygodni warsztatów</h2>
+      <h2>Tylko <span style="color: red;">199 zł</span> za 8 tygodni warsztatów</h2>
     
  
     <div class="col-md-11 col-md-offset-1">
@@ -131,7 +169,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
      
     </div>
   </div>
-    <div id="right-content" class="col-md-4 col-md-offset-1">
+    <div id="right-content" class="col-md-5">
       <h3>Startujemy 2 marca!<br/>
         Liczba miejsc ograniczona.<br/>
         Zarezerwuj sobie miejsce już teraz:</h3>
@@ -172,7 +210,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 					
 
 				
-				<br/>
+				<br/><br/>
 				<label for="email">Jeszcze tylko Twój email:</label>
 					<input type="email" class="form-control" id="email" name="email" required
 								oninvalid="this.setCustomValidity('Podaj prawidłowy adres email')" 
@@ -205,7 +243,7 @@ if (isset($_GET['gclid'])) {
 
 ?>
 
-				<input type="hidden" class="form-control" value="RegisterA1" id="landingpage_version" name="landingpage_version">
+				<input type="hidden" class="form-control" value="A1-pełny-formularz" id="landingpage_version" name="landingpage_version">
 				<input type="hidden" class="form-control" value="<?php echo $utm_source; ?>" id="utm_source" name="utm_source">
 				<input type="hidden" class="form-control" value="<?php echo $utm_medium; ?>" id="utm_medium" name="utm_medium">
 				<input type="hidden" class="form-control" value="<?php echo $utm_campaign; ?>" id="utm_campaign" name="utm_campaign">
@@ -226,8 +264,8 @@ if (isset($_GET['gclid'])) {
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
     <!-- Include all compiled plugins (below), or include individual files as needed -->
     <script src="js/bootstrap.min.js"></script>
-    <!-- jQuery UI for effects --
-    <script src="https://code.jquery.com/ui/1.11.2/jquery-ui.min.js"></script>
+    <!-- jQuery UI for effects -->
+    <!-- <script src="https://code.jquery.com/ui/1.11.2/jquery-ui.min.js"></script> -->
     <!-- form handler for validation and ajax request -->
     <script src="js/form-handler.js"></script>
 
@@ -257,10 +295,11 @@ if (isset($_GET['gclid'])) {
     // hide elements only on big screens
     if ($(window).width() >= 768) {
 
-    // execute onScroll on scroll or arrow click
-    $("#animated-example").one("click", function() {
+    // execute onScroll on scroll or arrow click (regex for ID beginning with animated-example)
+    $("[id^=animated-example]").one("click", function() {
       onScroll();
     });
+
     $(window).one("scroll", function() {
       onScroll();
     });

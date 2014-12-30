@@ -585,26 +585,31 @@
                         
                         <td valign="top" class="mcnTextContent" style="padding-top:9px; padding-right: 18px; padding-bottom: 9px; padding-left: 18px;">
                         
+
+                        <a href="http://aiesec.pl/uni" target="_blank"><img src="http://aiesec.pl/uni/mail/logo-mail.png" title="AIESEC University" alt="AIESEC University" /></a>
+
                             <h1><span style="line-height:1.6em">Cześć %name%!</span></h1>
 
-<h4 class="null">Właśnie zostałeś naszą Bardzo Ważną Personą!<br>
+<h4 class="null">Od teraz jesteś naszą Bardzo Ważną Personą!<br>
 Poinformujemy Cię o zapisach na warsztaty przed wszystkimi innymi uczestnikami.<br>
 <br>
 <strong style="line-height:1.6em">Oto najważniejsze informacje:</strong></h4>
 
 <ul>
-	<li>angielski, niemiecki, francuski, włoski rosyjski, hiszpański, arabski<br>
+	<li>niemiecki, francuski, włoski, rosyjski, hiszpański, arabski<br>
 	na poziomach A1-C1</li>
+	<li>język angielski - poziomy A2-C1</li>
+	<li>język arabski - tylko zajęcia indywidualne</li>
 	<li>warsztaty trwają 8 tygodni od 2 marca do 20 kwietnia</li>
-	<li>zajęcia grupowe - 199zł</li>
-	<li>zajęcia indywidualne - 350zł</li>
+	<li>zajęcia grupowe dwa razy w tygodniu po 1,5h - 199zł</li>
+	<li>zajęcia indywidualne dwa razy w tygodniu po 1h - 359zł</li>
 </ul>
 <br>
 Z nami nie zapomnisz języka w gębie!<br><br>
 Do zobaczenia wkrótce,
 <br>
-Zespół AIESEC University<br>
-<a href="http://aiesec.pl/uni" target="_blank">AIESEC.PL/UNI</a>
+<a href="http://aiesec.pl/uni" target="_blank"><img src="http://aiesec.pl/uni/mail/signature.png" title="Zespół AIESEC University" alt="Zespół AIESEC University"/></a><br>
+
                         </td>
                     </tr>
                 </tbody></table>

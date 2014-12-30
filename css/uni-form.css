@@ -1,5 +1,6 @@
 .form {
-  background: lightblue;
+  background: rgba(150, 200, 255, 0.8);
+  border: 6px white solid;
   padding: 20px;
 }
 .label {
